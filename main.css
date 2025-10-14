@@ -1,0 +1,45 @@
+.conteyner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    border: 2px solid #ccc;
+}
+
+.box {
+    display: flex;
+
+}
+
+.gap {
+    font-size: 70px;
+    color: #333333;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: black;
+    color: aqua;
+    border-radius: 20px;
+    width: 500px;
+    margin: 250px;
+}
+
+.gap:hover {
+    color: red;
+    background-color: yellow;
+}
+.qisqacha{
+    text-align: center;
+    font-size: 70px;
+    color: #666666;
+}
+.about-me{
+    text-align: center;
+    font-size: 50px;
+    color: #666666;
+}
